@@ -21,6 +21,8 @@ There are 4+1 steps in this model.
 - Data processing: Join tables, clean and test data, add macro variables, define new variables if needed.
 ### Step 1b: Data visualization
 - Visualize data to find insights.
+
+Historical Price Index in 10 US cities\
 ![alt text](https://github.com/taopreeda/Commercial-Real-Estate-Price-Forecast/blob/main/cpi.png)
 ### Step 2: Model calibration and testing
 - Run a model to get coefficient estimates and performance testing between historical and estimate Commercial Price Index (CPI)
