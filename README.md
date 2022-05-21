@@ -23,7 +23,8 @@ There are 4+1 steps in this model.
 - Visualize data to find insights.
 
 <p align="center">Historical Price Index in 10 US cities\
-![alt text](https://github.com/taopreeda/Commercial-Real-Estate-Price-Forecast/blob/main/cpi.png)</p>\
+  <img src="https://github.com/taopreeda/Commercial-Real-Estate-Price-Forecast/blob/main/cpi.png">
+  </p>
 ### Step 2: Model calibration and testing
 - Run a model to get coefficient estimates and performance testing between historical and estimate Commercial Price Index (CPI)
 ### Step 3: Forecast macro variables
