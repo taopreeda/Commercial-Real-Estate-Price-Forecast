@@ -20,7 +20,7 @@ There are 4+1 steps in this model.
 ### Step 1: Data preparation
 - Data processing: Join tables, clean and test data, add macro variables, define new variables if needed.
 ### Step 1b: Data visualization
-- Visualize data to find insights.\
+- Visualize data to find insights.
 
 <p align="center">Historical Price Index in 10 US cities</p>
 <p align="center"> <img src="https://github.com/taopreeda/Commercial-Real-Estate-Price-Forecast/blob/main/cpi.png"></p>
