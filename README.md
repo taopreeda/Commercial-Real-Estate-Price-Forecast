@@ -22,8 +22,8 @@ There are 4+1 steps in this model.
 ### Step 1b: Data visualization
 - Visualize data to find insights.
 
-Historical Price Index in 10 US cities\
-![alt text](https://github.com/taopreeda/Commercial-Real-Estate-Price-Forecast/blob/main/cpi.png)
+<center>Historical Price Index in 10 US cities</center>\
+<center>![alt text](https://github.com/taopreeda/Commercial-Real-Estate-Price-Forecast/blob/main/cpi.png)</center>
 ### Step 2: Model calibration and testing
 - Run a model to get coefficient estimates and performance testing between historical and estimate Commercial Price Index (CPI)
 ### Step 3: Forecast macro variables
@@ -31,4 +31,5 @@ Historical Price Index in 10 US cities\
 ### Step 4: Forecast CPI
 - Forecast CPI from 4Q/2017 to 3Q/2019
 
-> More details can be found in the relevant folder.
+
+> More details in each step can be found in the relevant folder.
