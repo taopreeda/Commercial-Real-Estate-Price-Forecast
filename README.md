@@ -28,4 +28,4 @@ There are 4+1 steps in this model.
 ### Step 4: Forecast CPI
 - Forecast CPI from 4Q/2017 to 3Q/2019
 
-> More details can be found in README file in the relevant step.
+> More details can be found in the relevant folder.
